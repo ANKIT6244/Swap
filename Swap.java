@@ -12,7 +12,7 @@ public class Swap {
 
         name.close();
 
-        System.out.println("Ankit's Marks is: " + Name);
-        System.out.println("Harsh's Marks is:" + SecondName);
+        System.out.println("Ankit's Marks is: " + SecondName);
+        System.out.println("Harsh's Marks is:" + Name);
     }
 }
